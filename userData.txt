@@ -1,0 +1,3 @@
+admin_amo,amo@chabishotness.co.za,Pass123!,Approved
+jdoe,john.doe@gmail.com,Secure789,Pending
+smit_k,k.smit@outlook.com,Welcome2026,Pending
